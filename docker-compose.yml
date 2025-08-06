@@ -1,0 +1,10 @@
+services:
+  backend:
+    build:
+      context: ./CMA-BackMetaConection
+      dockerfile: Dockerfile
+    container_name: ApiMetaConection
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
