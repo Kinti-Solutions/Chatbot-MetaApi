@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\controllers\\whatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:controllers\\whatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\texts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:texts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\models\\chatbottexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:models\\chatbottexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WhatsappController.cs",
+              "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Controllers\\WhatsappController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WhatsappController.cs",
+              "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Controllers\\WhatsappController.cs",
+              "RelativeToolTip": "Controllers\\WhatsappController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:41:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T02:41:14.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WhatsAppService.cs",
+              "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Services\\WhatsAppService.cs",
+              "RelativeDocumentMoniker": "Services\\WhatsAppService.cs",
+              "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Services\\WhatsAppService.cs",
+              "RelativeToolTip": "Services\\WhatsAppService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:24:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatbotTexts.cs",
+              "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Models\\ChatbotTexts.cs",
+              "RelativeDocumentMoniker": "Models\\ChatbotTexts.cs",
+              "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Models\\ChatbotTexts.cs",
+              "RelativeToolTip": "Models\\ChatbotTexts.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:24:14.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "texts.json",
+              "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\texts.json",
+              "RelativeDocumentMoniker": "texts.json",
+              "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\texts.json",
+              "RelativeToolTip": "texts.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T02:07:02.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+﻿{
+  "ChatbotTexts": {
+    "WelcomeMessage": "Hola, bienvenido al asistente virtual de Kinti Solutions.",
+    "ReminderMessage": "*Recuerda:* 🚨Esto es un Chatbot de prueba, la información ingresada aquí es completamente anónima.",
+
+    "ServicesCreditListHeader": "🏗 Desarrollos",
+    "ServicesCreditListDescription": "Descubre nuestros proyectos de desarrollo",
+    "ServicesAccountListHeader": "🤝 Compañías aliadas",
+    "ServicesAccountListDescription": "Conoce a nuestras empresas asociadas",
+    "ServicesInvestmentsListHeader": "🖥 Solicita una Demo",
+    "ServicesInvestmentsListDescription": "Agenda una demostración de nuestras plataformas",
+    "ServicesButtonListHeader": "🤝 Servicios",
+    "ServicesListHeader": "🛠 KintiBot - Servicios",
+    "HelpListHeader": "❓ KintiBot - Ayuda",
+    "HelpAgenciesListHeader": "🏦 Sucursales",
+    "HelpAgenciesListDescription": "Encuentra la sucursal más cercana",
+    "HelpKintiListHeader": "📱 App Móvil",
+    "HelpProvimovilListDescription": "Asistencia con la aplicación móvil",
+
+    "ServicesListBody": "Selecciona el servicio que deseas explorar:",
+    "ServicesListFooter": "Esta demo es solo para demostración, no realiza operaciones reales.",
+    "ServicesListButton": "Ver opciones",
+
+    "ServicesError": "No entendí tu selección, por favor inténtalo de nuevo.",
+
+    "AccountsSavingsListHeader": "Cuentas de Ahorro",
+    "AccountsSavingsListDescription": "Descubre nuestras opciones de cuenta de ahorro",
+    "AccountsKidsListHeader": "Cuentas Infantiles",
+    "AccountsKidsListDescription": "Soluciones de ahorro para niños y jóvenes",
+    "AccountsButtonListHeader": "Cuentas",
+    "AccountsListHeader": "KintiBot - Cuentas",
+    "AccountsListBody": "Selecciona la cuenta de tu interés:",
+    "AccountsListFooter": "Esta demo es solo para demostración, no realiza operaciones reales.",
+    "AccountsListButton": "Ver opciones",
+
+    "AccountsError": "No entendí tu selección, por favor inténtalo de nuevo.",
+
+    "SavingsAccountDescription": "Ahorros Vista es una cuenta donde tu dinero crece de forma segura y rentable con la seguridad de ser parte de una de las Cooperativas más rentables del País.",
+    "SavingsAccountBenefits": "📈 *Beneficios:* \n- Disponibilidad inmediata de créditos.\n- Acceso a nuestros servicios digitales (Web, APP y Pagos QR).\n- Incluye tarjeta de Débito Visa Internacional.",
+    "SavingsAccountRequirements": "💡 *Requisitos:* \n- Copia de tu cédula de identidad a color.\n- Copia de la última planilla de cualquier servicio básico.\n- Depósito inicial de $25.",
+    "SavingsAccountFooter": "Para aperturar una cuenta de Ahorros Vista deberás acercarte a nuestras instalaciones.",
+
+    "KidsAccountDescription": "La Cuenta Infantil Junior Provida es una cuenta de ahorros para niños y jóvenes, con el objetivo de fomentar una cultura de ahorro desde temprana edad.",
+    "KidsAccountBenefits": "📈 *Beneficios:* \n- Cero costos por mantenimiento de cuenta.\n- No requiere depósito inicial.\n- Sorpresas exclusivas para los niños.",
+    "KidsAccountRequirements": "💡 *Requisitos:* \n- Ser menor de 18 años.\n- Cédula de identidad o partida de nacimiento.\n- Cédula de identidad del representante legal o tutor.",
+    "KidsAccountFooter": "Para aperturar una cuenta Infantil Junior Provida deberás acercarte a nuestras instalaciones.",
+
+    "AccountsChoosenError": "La opción ingresada no es válida. Por favor selecciona una de las siguientes cuentas:",
+
+    "InvestingDescription": "Un producto de inversión mayor a 30 días, es la forma más inteligente de ahorrar, si deseas la mejor rentabilidad. Invierte en un Plazo Fijo Provida, que te permite ganar atractivas tasas de interés y tener tu dinero seguro, recuerda que mientras ahorras a un plazo mayor, ganas más.",
+    "InvestingBenefits": "📈 Beneficios: \n    - Con tu inversión obtienes una línea de crédito inmediata de hasta el 85% y con la mejor Tasa de Interés (de acuerdo al monto de tu certificado).\n    - Seguridad.\n    - Servicio personalizado.\n    - Personal especializado te brindará asesoría y acompañamiento, así como las mejores condiciones para tu inversión.\n    - Flexibilidad.\n    - Renovación automática del Plazo Fijo a 31 días de su finalización y con la misma Tasa de Interés.",
+
+    "InvestingQuestion": "¿Deseas Que un asesor te contacte para ayudarte con tu proceso de apertura de una póliza o inversión?",
+
+    "IdPrompt": "¿Cuál es tu número de cédula o RUC?",
+
+    "InvalidId": "La cédula o RUC ingresados no son válidos. Por favor, inténtalo de nuevo.",
+
+    "InvalidServiceSelection": "El servicio seleccionado no es válido. Por favor selecciona una opción:",
+    "CreditDestinationPrompt": "¿Cuál será el destino de tu crédito?",
+    "CreditDestinationErrorPrompt": "Por favor detalla el destino del crédito.",
+    "NotAuthorized": "Lamentablemente, sin esta autorización no podremos continuar por este medio. Por favor acércate a nuestras oficinas.",
+    "CreditAmountPrompt": "Indica con números, ¿Cuál es el monto que deseas solicitar?",
+    "CreditAmountErrorPrompt": "El monto no es válido, indica el monto usando solo números ¿Cuál es el monto que deseas solicitar?",
+
+    "AuthorizationPrompt": "¿Autorizas a Cooperativa Provida a consultar tu información crediticia?",
+
+    "AuthorizationReminder": "Por favor responde eligiendo Sí o No.",
+
+    "SelectionError": "Lo siento, no pude entender tu mensaje. Por favor intenta nuevamente.",
+
+    "CreditProcesed": "Hemos analizado la mejor opción para ti y encontrado una que se adapta a tus necesidades. En unos minutos un asesor se pondrá en contacto contigo para brindarte una asesoría más personalizada con base a la información proporcionada.",
+
+    "ComprehensionErrorResponse": "Lo siento, no he comprendido tu mensaje. Reinténtalo.",
+
+    "ComunicationEnded": "Gracias por haber usado los servicios virtuales de Cooperativa de Ahorro y Crédito Provida. \n Si requiere mayor información puede acercarse a nuestras oficinas ubicadas en:\n         - Matriz: Av. Antonio Ricaurte y Vicente Pacheco (esq.)\n        - Sucursal: Patamarca\n\nO ponerse en contacto con nosotros por los siguientes canales:\n        📱 Celular: 0998866690\n        ☎️ Teléfonos: (07) 2476166 / (07) 2476167 / (07) 2891687\n        📨 Correo electrónico: info@provida.fin.ec",
+
+    "NotAcceptedInvesting": "Para aperturar tu inversión o poliza deberás acercarte a cualquiera de nuestras agencias, estaremos gustosos de atenderte.",
+
+    "AcceptedInvesting": "Perfecto, un asesor se pondrá en contacto contigo para continuar con el proceso.",
+
+    "LocationHeader": "A continuación encontrarás las ubicaciones de nuestras dos agencias. \n\nRecuerda que nuestro horario de atención es de: \n    - Lunes a Viernes: 8:00 -> 18:00 \n    - Sábados y Domingos: 8:00 -> 12:00",
+
+    "LocationMatrizLat": "-2.864062899510385",
+    "LocationMatrizLong": "-78.96572092631739",
+    "LocationMatrizName": "Cooperativa Provida Matriz",
+    "LocationMatrizAdress": "Antonio Ricaurte y Vicente Pacheco Esquina",
+
+    "LocationPatLat": "-2.862825",
+    "LocationPatLong": "-78.983328",
+    "LocationPatName": "Cooperativa Provida Agencia Patamarca",
+    "LocationPatAdress": "José María Landa y Cam. a Patamarca",
+
+    "StickerFixingIssueID": "570100192190111",
+    "IssueUs": "Esta sección aún no se encuentra disponible, estamos trabajando en ello.",
+
+    "ContinueQuestion": "¿Deseas realizar otra consulta?",
+
+    "ConsultantInvestingHeader": "Ha recibido una nueva solicitud de asesoría para Inversión",
+    "ConsultantCreditHeader": "Ha recibido una nueva solicitud de asesoría de Crédito",
+    "ConsultantBody": "El cliente potencial ha registrado la siguiente información:",
+    "ConsultantIdentification": "\t Identificación: ",
+    "ConsultantDestiny": "\t Destino de la operación: ",
+    "ConsultantAmount": "\t Monto solicitado: ",
+    "ConsultantFooter": "El cliente potencial ha aceptado que su información del buró crediticio sea consultada por lo que espera su pronto contacto. Gracias. ",
+
+    "UpdateProposal": "Se ha actualizado correctamente el seguimiento de la propuesta de crédito: ",
+    "UpdateProposalError": "No se pudo actualizar el seguimiento de la propuesta de crédito porfavor reintente en unos minutos.",
+
+    "CharactersError": "El mensaje contiene caracteres no permitidos. Inténtalo de nuevo."
+  }
+}
