@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:controllers\\whatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|solutionrelative:services\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15F72001-2A47-450C-8993-64FF29429A29}|Chatbot.csproj|d:\\kinti solutions\\repositorios\\chatbot-metaapi\\cma-backmetaconection\\texts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -164,33 +164,33 @@
               "RelativeDocumentMoniker": "Controllers\\WhatsappController.cs",
               "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Controllers\\WhatsappController.cs",
               "RelativeToolTip": "Controllers\\WhatsappController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T02:41:34.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-06T02:41:14.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WhatsAppService.cs",
               "DocumentMoniker": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Services\\WhatsAppService.cs",
               "RelativeDocumentMoniker": "Services\\WhatsAppService.cs",
               "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Services\\WhatsAppService.cs",
               "RelativeToolTip": "Services\\WhatsAppService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T02:24:16.427Z",
               "EditorCaption": ""
@@ -203,7 +203,7 @@
               "RelativeDocumentMoniker": "Models\\ChatbotTexts.cs",
               "ToolTip": "D:\\Kinti Solutions\\Repositorios\\Chatbot-MetaApi\\CMA-BackMetaConection\\Models\\ChatbotTexts.cs",
               "RelativeToolTip": "Models\\ChatbotTexts.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA+wBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T02:24:14.643Z",
               "EditorCaption": ""
