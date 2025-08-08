@@ -18,7 +18,7 @@ namespace Chatbot.Controllers
         }
 
         // Endpoint para la validación del webhook
-        [HttpGet("webhook")]
+        [HttpGet("webhooks")]
         public IActionResult Verify([FromQuery(Name = "hub.mode")] string mode,
                                 [FromQuery(Name = "hub.verify_token")] string token,
                                 [FromQuery(Name = "hub.challenge")] string challenge)
@@ -33,7 +33,7 @@ namespace Chatbot.Controllers
             return Forbid();
         }
 
-        [HttpPost("webhook")]
+        [HttpPost("webhooks")]
         public async Task<IActionResult> ReceiveMessage([FromBody] WhatsAppWebhookRequest request)
         {
             var message = request.Entry?.FirstOrDefault()?.Changes?.FirstOrDefault()?.Value?.Messages?.FirstOrDefault();
